@@ -173,6 +173,8 @@
       <excludeFolder url="file://$MODULE_DIR$/my_project_directory/vendor/doctrine/doctrine-fixtures-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/my_project_directory/vendor/knplabs/knp-components" />
       <excludeFolder url="file://$MODULE_DIR$/my_project_directory/vendor/knplabs/knp-paginator-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project_directory/vendor/gedmo/doctrine-extensions" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project_directory/vendor/stof/doctrine-extensions-bundle" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
