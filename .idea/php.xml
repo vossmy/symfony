@@ -181,6 +181,9 @@
       <path value="$PROJECT_DIR$/my_project_directory/vendor/doctrine/doctrine-fixtures-bundle" />
       <path value="$PROJECT_DIR$/my_project_directory/vendor/stof/doctrine-extensions-bundle" />
       <path value="$PROJECT_DIR$/my_project_directory/vendor/gedmo/doctrine-extensions" />
+      <path value="$PROJECT_DIR$/my_project_directory/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/my_project_directory/vendor/zenstruck/foundry" />
+      <path value="$PROJECT_DIR$/my_project_directory/vendor/zenstruck/assert" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.4" />
